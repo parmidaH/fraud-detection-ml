@@ -52,7 +52,7 @@ To run this project, you need the `creditcard.csv` dataset. Follow these steps:
 2. **Install dependencies:**
    
    ```
-   pip install pandas scikit-learn matplotlib seaborn xgboost
+   pip install pandas scikit-learn matplotlib seaborn xgboost random
    ```
 3. **Download the dataset as described above and place it in the project folder.**
 4. **Run the Python script:**
@@ -66,7 +66,4 @@ To run this project, you need the `creditcard.csv` dataset. Follow these steps:
    ```
    jupyter notebook fraud-detection-ml.ipynb
    ```
-
-
-
 
