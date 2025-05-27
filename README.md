@@ -22,7 +22,6 @@ This project demonstrates how to detect fraudulent credit card transactions usin
 - Data preprocessing
 - Training multiple models: Logistic Regression, Random Forest, and XGBoost
 - Model evaluation and selection
-- Hyperparameter tuning with GridSearchCV
 - Making predictions on new transactions
 
 ---
